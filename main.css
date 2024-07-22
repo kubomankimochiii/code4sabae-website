@@ -62,7 +62,7 @@ footer {
     margin-top: 2em;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 200px) {
     .container {
         width: 90%;
     }
